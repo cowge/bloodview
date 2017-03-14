@@ -1,7 +1,7 @@
 # bloodview
-#血条进度动画
+##血条进度动画
 
-![](https://github.com/cowge/bloodview/blob/master/bloodview.mp4)<br/>
+![](https://github.com/cowge/bloodview/blob/master/bloodview.png)<br/>
 
 ##用法说明：
 
